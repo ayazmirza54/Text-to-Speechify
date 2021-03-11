@@ -1,0 +1,12 @@
+{
+  "name": "Text-to-Speechify",
+  "version": "1.0.0",
+  "description": "A Text to Speech live transcribe web app [![Netlify Status](https://api.netlify.com/api/v1/badges/a1ab2238-8207-4d67-83cb-c24787d4db0d/deploy-status)](https://app.netlify.com/sites/text-to-speechify/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
